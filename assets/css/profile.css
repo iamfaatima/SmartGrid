@@ -1,0 +1,75 @@
+:root {
+    --main-color: #e74c3c;
+    --dark-color: #2d3436;
+    --light-dark-color: #596669;
+  }
+
+#card-root
+{
+    background: var(--dark-color);
+    border-radius: 10px ;
+    padding: 30px;
+}
+
+#profile-Img
+{
+    display: inline;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    border-radius: 100%;
+}
+
+#container-profile
+{
+    color: white;
+}
+
+#content-box
+{
+    padding: 15px;
+    margin: auto; 
+    background: var(--light-dark-color);
+    border-radius: 10px;
+    width:50%;
+    border: 2px var(--main-color) solid;
+}
+
+.heading-text
+{
+    font-weight: 800;
+    margin: 10px 5px;
+}
+
+#action-buttons
+{
+    margin: 20px 0px 0px 0px;
+    text-align: center;
+}
+
+#action-buttons span
+{
+    margin: 0px 5px;
+}
+
+
+input[type=file]::file-selector-button 
+{
+    background:  var(--main-color);
+    color: white;
+    font-weight: 600;
+    border: none;
+    padding: 10px;
+    margin: 10px;
+    /*border-radius: 30px;*/
+    height: 60px;
+  }
+  
+  input[type=file]::file-selector-button:hover 
+  {
+    background: white;
+    color: var(--main-color);
+    cursor: pointer;
+  }
+

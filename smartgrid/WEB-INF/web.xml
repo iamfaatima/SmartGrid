@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+    <servlet>
+        <servlet-name>CreateService</servlet-name>
+        <servlet-class>smartgrid.services.CreateService</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CreateService</servlet-name>
+        <url-pattern>/CreateService</url-pattern>
+    </servlet-mapping>
+
+	<servlet>
+        <servlet-name>UpdateService</servlet-name>
+        <servlet-class>smartgrid.services.UpdateService</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UpdateService</servlet-name>
+        <url-pattern>/UpdateService</url-pattern>
+    </servlet-mapping>
+
+	<servlet>
+        <servlet-name>DeleteService</servlet-name>
+        <servlet-class>smartgrid.services.DeleteService</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DeleteService</servlet-name>
+        <url-pattern>/DeleteService</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+		<servlet-name>signUp</servlet-name>
+		<servlet-class>smartgrid.authentication.signupServer</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>signUp</servlet-name>
+		<url-pattern>/sign</url-pattern>
+	</servlet-mapping>
+
+    <servlet>
+		<servlet-name>logIn</servlet-name>
+		<servlet-class>smartgrid.authentication.loginServer</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>logIn</servlet-name>
+		<url-pattern>/log</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>logout</servlet-name>
+		<servlet-class>smartgrid.authentication.logoutServer</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>logout</servlet-name>
+		<url-pattern>/logout</url-pattern>
+	</servlet-mapping>
+
+    <servlet>
+		<servlet-name>profileHandler</servlet-name>
+		<servlet-class>smartgrid.authentication.profileHandler</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>profileHandler</servlet-name>
+		<url-pattern>/handler</url-pattern>
+	</servlet-mapping>
+
+    <servlet>
+		<servlet-name>PIU</servlet-name>
+		<servlet-class>smartgrid.authentication.profileImageUpload</servlet-class>
+	</servlet>
+h
+	<servlet-mapping>
+		<servlet-name>PIU</servlet-name>
+		<url-pattern>/image</url-pattern>
+	</servlet-mapping>
+
+</web-app>

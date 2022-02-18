@@ -1,0 +1,13 @@
+form {
+    > div:nth-child(n+2) {
+        margin-top: 15px;
+    }
+
+    textarea {
+        height: 250px !important;
+    }
+
+    button {
+        width: 100%;
+    }
+}

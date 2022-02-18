@@ -1,0 +1,11 @@
+.button {
+    padding: 10px 25px;
+    background-color: var(--main-color);
+    display: inline-block;
+    color: #fff;
+
+    &:hover {
+        background-color: var(--text-dark-color);
+        color: #fff;
+    }
+}

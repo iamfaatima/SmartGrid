@@ -1,0 +1,31 @@
+.home {
+    &-wrapper {
+        padding: 100px 0;
+    }
+    
+    &-heading {
+        margin-bottom: 50px;
+    }   
+}
+
+.type-box {
+    &-wrapper {
+        display: block;
+        width: 100%;
+        border-radius: 30px;
+        border: 2px solid var(--main-color);
+        background-color: transparent;
+        padding: 50px 50px;
+
+        &:hover {
+            background-color: var(--main-color);
+            h3 {
+                color: #fff;
+            }
+        }
+    }
+
+    h3 {
+        color: var(--text-dark-color);
+    }
+}
