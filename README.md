@@ -38,7 +38,23 @@ that were mentioned, although the lack of education and technological
 awareness within the local population is a hurdle but slowly and steadily, we
 believe that such a system will make its way in general people’s life by proving
 itself an asset for our described utopia.
+![](https://user-images.githubusercontent.com/70031321/154804236-7a0d6df4-e72a-4ee0-9d10-deaab3f70aab.png)
+![](https://user-images.githubusercontent.com/70031321/154804237-174df3d8-6cd6-42fa-8ee0-b8ef54590cb1.png)
+![](https://user-images.githubusercontent.com/70031321/154804239-6866648c-e298-4b0d-970e-4976297ac5d0.png)
+![](https://user-images.githubusercontent.com/70031321/154804241-af52c3e2-b82a-41fe-90d9-20aa0050a549.png)
+![](https://user-images.githubusercontent.com/70031321/154804242-cc95b43f-2626-40b4-bb28-fffc37630356.png)
+![](https://user-images.githubusercontent.com/70031321/154804243-17951167-9137-4a5f-bef4-e21d8946073f.png)
+![](https://user-images.githubusercontent.com/70031321/154804244-4ac73d68-8976-4d54-8483-3d227c85e238.png)
+![](https://user-images.githubusercontent.com/70031321/154804246-3c9acdf0-33c8-4c81-ad27-4dcfe728359d.png)
+![](https://user-images.githubusercontent.com/70031321/154804248-123cc4bd-8710-48a4-af1a-cae53755f5f7.png)
+![](https://user-images.githubusercontent.com/70031321/154804250-33b47d8d-c438-4366-bd9f-428f990e3173.png)
+![](https://user-images.githubusercontent.com/70031321/154804252-1f916c1d-4e5e-4f5f-93c6-55abd8d9e827.png)
+![](https://user-images.githubusercontent.com/70031321/154804253-ba2391b5-ca75-4b91-84c9-076a5ba9bce1.png)
+![](https://user-images.githubusercontent.com/70031321/154804255-81614b92-391e-4b72-87dc-29e72a27736d.png)
+![](https://user-images.githubusercontent.com/70031321/154804257-f6efdb8f-887c-44a0-bc35-c15c75702ef3.png)
+![](https://user-images.githubusercontent.com/70031321/154804258-a1bfcf53-726e-412e-ae92-3f49a8384670.png)
+![](https://user-images.githubusercontent.com/70031321/154804259-75ce268c-9707-46a5-92fe-eb80956d9527.png)
+![](https://user-images.githubusercontent.com/70031321/154804261-60e22cbe-5da7-49ba-a859-6473b7c24038.png)
+![](https://user-images.githubusercontent.com/70031321/154804262-1d4e7004-25e6-40a2-8a38-a14e8ab62722.png)
 
-
-![Alt text](/../screenshot/SmartGrid/screenshots/01.png?raw=true "")
 
