@@ -40,5 +40,5 @@ believe that such a system will make its way in general people’s life by provi
 itself an asset for our described utopia.
 
 
-![Alt text](/../screenshot/smartgrid/screenshots/01.png?raw=true "")
+![Alt text](/../screenshot/SmartGrid/screenshots/01.png?raw=true "")
 
